@@ -13,119 +13,113 @@
       "id": 1
     }
   ],
-  "exercise":[
+  "exercise": [
     {
-      "back":[
-        {
-          "id":1,
-      "exercisename":"Alternate Lateral Pull-down",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/SEpbDkNaMHo9rF",
-      "description":"If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
-      "sets":3
-        },
-        {
-          "id":2,
-      "exercisename":"Archer Pull-up",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/xUukNcgMgONqFW",
-      "description":"If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
-      "sets":2
-        },
-        {
-          "id":3,
-      "exercisename":"Assisted Pull-up",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/SQqSYb1c-sFPHy",
-      "description":"If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
-      "sets":4
-        },
-        {
-          "id":4,
-      "exercisename":"Back Extension On Exercise Ball",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/SEpbDkNaMHo9rF",
-      "description":"If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
-      "sets":3
-        },
-        {
-          "id":5,
-      "exercisename":"Back Lever",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/hmkRyr6T_w5jEf",
-      "description":"If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
-      "sets":2
-        }
-      ],
-      "chest":[
-        {
-          "id":6,
-      "exercisename":"Bend Bench Press",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/tsGh8kjZpCB3jZ",
-      "description":"Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
-      "sets":3
-        },
-        {
-          "id":7,
-      "exercisename":"Barbell Bench Presh",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/RqPZBhyM2IcED0",
-      "description":"Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
-      "sets":3
-        },
-        {
-          "id":8,
-      "exercisename":"Barbell Decline Pull-over",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/SbKauQzqHaZSxi",
-      "description":"Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
-      "sets":4
-        },
-        {
-          "id":9,
-      "exercisename":"Barbell Reverse Grip Decline Bench Press",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/N8FRC+Btp24Udm",
-      "description":"Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
-      "sets":5
-        },
-        {
-          "id":10,
-      "exercisename":"Barbell Incline Shoulder Raise",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/aD1XIPxEviJGO-",
-      "description":"Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
-      "sets":3
-        }
-      ],
-      "waist":[
-        {
-          "id":11,
-      "exercisename":"Assisted Motion Russian Twist",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/UsXo+gdPv1jDEV",
-      "description":"Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep..",
-      "sets":3
-        },
-        {
-          "id":12,
-      "exercisename":"Assisted Prone Rectus Femoris Stretch",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/X6ENmG8KXlS6EK",
-      "description":"Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
-      "sets":3
-        },
-        {
-          "id":13,
-      "exercisename":"Assisted sit-up",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/zI-4a_uDgyDC+0",
-      "description":"Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep..",
-      "sets":4
-        },
-        {
-          "id":14,
-      "exercisename":"Band Alternating V-up",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/fHRPX9rAS9BHtr",
-      "description":"Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
-      "sets":5
-        },
-        {
-          "id":15,
-      "exercisename":"Band Assisted Wheel Rollerout",
-      "image":"https://edbv2-ff7foj6vca-uc.a.run.app/image/qhI0UqfpqaaWAG",
-      "description":"Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
-      "sets":3
-        }
-      ]
+      "id": 1,
+      "exercisename": "Alternate Lateral Pull-down",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/SEpbDkNaMHo9rF",
+      "description": "If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
+      "sets": 3
+    },
+    {
+      "id": 2,
+      "exercisename": "Archer Pull-up",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/xUukNcgMgONqFW",
+      "description": "If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
+      "sets": 2
+    },
+    {
+      "id": 3,
+      "exercisename": "Assisted Pull-up",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/SQqSYb1c-sFPHy",
+      "description": "If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
+      "sets": 4
+    },
+    {
+      "id": 4,
+      "exercisename": "Back Extension On Exercise Ball",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/SEpbDkNaMHo9rF",
+      "description": "If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
+      "sets": 3
+    },
+    {
+      "id": 5,
+      "exercisename": "Back Lever",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/hmkRyr6T_w5jEf",
+      "description": "If you've got a barbell home gym, chances are you've got a squat rack with a chin-up bar. That gives you a near-perfect alternative to the lat pulldown. In fact, if anything, chin-ups and pull-ups are better than lat pulldowns for building muscle in our biceps and upper back",
+      "sets": 2
+    },
+
+    {
+      "id": 6,
+      "exercisename": "Bend Bench Press",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/tsGh8kjZpCB3jZ",
+      "description": "Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
+      "sets": 3
+    },
+    {
+      "id": 7,
+      "exercisename": "Barbell Bench Presh",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/RqPZBhyM2IcED0",
+      "description": "Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
+      "sets": 3
+    },
+    {
+      "id": 8,
+      "exercisename": "Barbell Decline Pull-over",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/SbKauQzqHaZSxi",
+      "description": "Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
+      "sets": 4
+    },
+    {
+      "id": 9,
+      "exercisename": "Barbell Reverse Grip Decline Bench Press",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/N8FRC+Btp24Udm",
+      "description": "Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
+      "sets": 5
+    },
+    {
+      "id": 10,
+      "exercisename": "Barbell Incline Shoulder Raise",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/aD1XIPxEviJGO-",
+      "description": "Person lays supine on the bench, knees bent and feet flat on the floor. Grip the bar (grip can vary depending on goal) and un-rack bar. Lower the bar to the chest (around nipple level) Press the bar upward until the arms are fully extended, keep the feet on the floor.",
+      "sets": 3
+    },
+
+    {
+      "id": 11,
+      "exercisename": "Assisted Motion Russian Twist",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/UsXo+gdPv1jDEV",
+      "description": "Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep..",
+      "sets": 3
+    },
+    {
+      "id": 12,
+      "exercisename": "Assisted Prone Rectus Femoris Stretch",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/X6ENmG8KXlS6EK",
+      "description": "Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
+      "sets": 3
+    },
+    {
+      "id": 13,
+      "exercisename": "Assisted sit-up",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/zI-4a_uDgyDC+0",
+      "description": "Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep..",
+      "sets": 4
+    },
+    {
+      "id": 14,
+      "exercisename": "Band Alternating V-up",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/fHRPX9rAS9BHtr",
+      "description": "Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
+      "sets": 5
+    },
+    {
+      "id": 15,
+      "exercisename": "Band Assisted Wheel Rollerout",
+      "image": "https://edbv2-ff7foj6vca-uc.a.run.app/image/qhI0UqfpqaaWAG",
+      "description": "Flex both feet and lift your left arm straight in the air. Keeping your spine lengthened and your abs engaged, lift your left leg up as high as you can without letting your waist sink to the ground. Then slowly lower your right leg back to the starting position to complete the rep.",
+      "sets": 3
     }
   ],
 
