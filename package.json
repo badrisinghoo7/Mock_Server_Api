@@ -1,0 +1,23 @@
+{
+  "name": "ff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrisinghoo7/Mock_Server_Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrisinghoo7/Mock_Server_Api/issues"
+  },
+  "homepage": "https://github.com/badrisinghoo7/Mock_Server_Api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
